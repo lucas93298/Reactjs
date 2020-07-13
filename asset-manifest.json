@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/my-app/Fronted/static/css/main.96957ba9.chunk.css",
+    "main.js": "/my-app/Fronted/static/js/main.6da5b239.chunk.js",
+    "main.js.map": "/my-app/Fronted/static/js/main.6da5b239.chunk.js.map",
+    "runtime-main.js": "/my-app/Fronted/static/js/runtime-main.2b360898.js",
+    "runtime-main.js.map": "/my-app/Fronted/static/js/runtime-main.2b360898.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/my-app/Fronted/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.ea79f3db.chunk.js": "/my-app/Fronted/static/js/2.ea79f3db.chunk.js",
+    "static/js/2.ea79f3db.chunk.js.map": "/my-app/Fronted/static/js/2.ea79f3db.chunk.js.map",
+    "index.html": "/my-app/Fronted/index.html",
+    "precache-manifest.a4b5181ebcd039937ac7238a32515551.js": "/my-app/Fronted/precache-manifest.a4b5181ebcd039937ac7238a32515551.js",
+    "service-worker.js": "/my-app/Fronted/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/my-app/Fronted/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.96957ba9.chunk.css.map": "/my-app/Fronted/static/css/main.96957ba9.chunk.css.map",
+    "static/js/2.ea79f3db.chunk.js.LICENSE.txt": "/my-app/Fronted/static/js/2.ea79f3db.chunk.js.LICENSE.txt",
+    "static/media/chip.png": "/my-app/Fronted/static/media/chip.e36bb1c0.png",
+    "static/media/App.css": "/my-app/Fronted/static/media/hojas.001ecdbd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b360898.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.ea79f3db.chunk.js",
+    "static/css/main.96957ba9.chunk.css",
+    "static/js/main.6da5b239.chunk.js"
+  ]
+}
